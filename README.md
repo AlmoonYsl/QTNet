@@ -59,7 +59,6 @@ tools/dist_test.sh configs/qtnet.py work_dirs/qtnet_4frames/latest.pth 8 --eval 
 ## TODO
 - [x] Release the paper.
 - [x] Release the code of QTNet (Memory Bank Training).
-- [ ] Release the code of QTNet (End-to-End Training).
 
 ## Acknowledgements
 
